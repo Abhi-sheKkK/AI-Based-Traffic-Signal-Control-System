@@ -1,6 +1,6 @@
 # 🚦 AI Based Traffic Management System 🚦
 
-# About the Project
+## About the Project
 
 ## Aim
 
@@ -76,7 +76,7 @@ Overall, our AI-driven approach promises to address the pressing issue of traffi
     ├── yolo.py
     ├── yolov8n.pt
 
-# Getting Started
+## Getting Started
 
 ## Running the model
 
@@ -89,7 +89,7 @@ python main.py
 
 ## Project Demo
 
-# Contributors
+## Contributors
 
 - Abhishek Kotwani
 - Aryan Yadav
