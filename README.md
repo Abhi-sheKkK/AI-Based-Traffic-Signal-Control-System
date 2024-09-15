@@ -89,6 +89,8 @@ python main.py
 
 ## Project Demo
 
+![Demo Video](https://github.com/user-attachments/assets/badfd777-e3c7-4a58-a70e-1aa88833a1ca)
+
 ## Contributors
 
 - Abhishek Kotwani
