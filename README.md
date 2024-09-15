@@ -2,7 +2,7 @@
 
 ## About the Project
 
-## Aim
+## 🎯 Aim
 
 The goal of this project is to develop a smart AI-based solution for traffic management on routes with heavy traffic from different directions, incorporating real-time monitoring and adaptive traffic light timing.
 
