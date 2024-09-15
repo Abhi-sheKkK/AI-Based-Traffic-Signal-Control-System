@@ -38,7 +38,7 @@ Reduced Congestion: Decreases travel time and vehicle emissions, contributing to
 Decreased Pollution: Reduces vehicle idling and improves traffic flow, lowering emissions and contributing to better air quality and a healthier urban environment.
 Overall, our AI-driven approach promises to address the pressing issue of traffic congestion in Indian cities, offering a scalable and effective solution to enhance urban mobility.
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - [SUMO](https://sumo.dlr.de/docs/index.html)
 - [Tensorflow](https://www.tensorflow.org/)
@@ -47,7 +47,7 @@ Overall, our AI-driven approach promises to address the pressing issue of traffi
 - [Numpy](https://numpy.org/doc/#)
 - [Google Collab](https://colab.research.google.com/)
 
-## File Structure
+## 📁 File Structure
 
     ├── docs
        ├── SIH2024.pdf
