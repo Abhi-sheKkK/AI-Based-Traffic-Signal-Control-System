@@ -24,7 +24,7 @@ Traffic Light Management: The AI model predicts traffic patterns and dynamically
 
 - **Computer Vision:** Processes video data and detects vehicles using Canny edge detection and semantic segmentation techniques.
 - **Regression Analysis:** Estimates vehicle counts and predicts traffic flow patterns.
-- **Pygame Simulation Environment:** Facilitates initial training and fine-tuning of the regression model before real-world deployment.
+- **SUMO Simulation Environment:** Facilitates initial training and fine-tuning of the regression model before real-world deployment.
 - **Reinforcement Learning:** Optimizes traffic light timings dynamically by learning from real-time traffic data and feedback, improving decision-making and adaptation to changing traffic conditions.
 
 ## 🌍 Impact of the Project
