@@ -16,12 +16,10 @@
 * [Our Solution](#-our-solution)
 * [Core Technologies](#️-core-technologies)
 * [System Architecture](#-system-architecture)
-* [Implementation Process](#-implementation-process)
 * [Key Results](#-key-results)
 * [Real-world Impact](#-real-world-impact)
-* [Installation Guide](#-installation-guide)
 * [Future Roadmap](#-future-roadmap)
-* [Project Team](#-project-team)
+* [Team Members](#-team-members)
 
 ## 🌆 The Urban Challenge
 
@@ -37,18 +35,16 @@ Smart Flow transforms these painpoints into opportunities for creating smarter, 
 
 ### Smart Flow's Adaptive Intelligence System
 
-<table>
-  <tr>
-    <td>Vehicle Density Extraction</td>
-    <td>![Demo](https://github.com/user-attachments/assets/your-gif-file.gif)</td>
-    <td><img src="/api/placeholder/250/180" alt="ai-analysis" width="250"></td>
-  </tr>
-  <tr>
-    <td>Reinforcement Learning</td>
-    <td><img src="/api/placeholder/50/50" alt="arrow" width="250"></td>
-    <td><img src="/api/placeholder/250/180" alt="reduced-congestion" width="250"></td>
-  </tr>
-</table>
+
+**Vehicle Count Detection**
+
+https://github.com/user-attachments/assets/84eb35d4-ce2e-4db9-9734-502bc9cbacee
+
+<img src="https://github.com/user-attachments/assets/a452e21f-c295-42d1-bf9e-40dc430030e7" width="600" />
+
+<br /><br />
+
+
 
 Unlike traditional systems, Smart Flow:
 * **Sees** traffic conditions in real-time through computer vision
@@ -70,8 +66,6 @@ Unlike traditional systems, Smart Flow:
 ## 🏗 System Architecture
 
 <img src="https://github.com/user-attachments/assets/3dcb0e55-6fba-408a-9d6c-be772fb7aab2" width="700" />
-
-The Smart Flow system consists of four integrated modules:
 
 1. **Data Acquisition Layer**
    - Traffic cameras capture video feeds
@@ -135,29 +129,6 @@ The Smart Flow system consists of four integrated modules:
 * **Emergency Response**: Priority routing for emergency vehicles reduces response times by 23%
 * **Public Transportation**: Improved schedule reliability for buses operating on optimized routes
 
-## 🛠️ Installation Guide
-
-### System Requirements
-* Camera hardware with minimum 720p resolution
-* Computing unit with 4GB RAM and quad-core processor
-* Network connectivity (wired/4G)
-* Traffic light controller with API support
-
-### Setup Process
-```bash
-# Clone the repository
-git clone https://github.com/your-org/smart-flow-traffic-system.git
-cd smart-flow-traffic-system
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Configure the system
-python setup.py --config your_intersection_config.json
-
-# Start the monitoring dashboard
-python dashboard.py
-```
 
 ## 🚀 Future Roadmap
 
@@ -167,16 +138,15 @@ python dashboard.py
 * **Citywide Deployment**: Scale from individual intersections to citywide traffic optimization
 * **Public API**: Provide traffic prediction data for navigation apps and urban planners
 
-## 👥 Project Team
+## 👥 Team Members
 
-* **Dr. Ananya Sharma** - *Project Lead & AI Specialist*
-* **Ravi Kumar** - *Computer Vision Engineer*
-* **Priya Desai** - *Reinforcement Learning Expert*
-* **Mohammed Farooq** - *Traffic Systems Integration*
-* **Sunita Patel** - *Urban Planning Consultant*
-
+| Name | GitHub |
+|--------|----------|
+| Om Mukherjee | [GitHub](https://github.com/meekhumor) |
+| Abhishek Kotwani | [GitHub](https://github.com/Abhi-sheKkK) |
+| Aryan Yadav | [GitHub](https://github.com/Aryan-y-77) |
+| Ronit Choube | [GitHub](https://github.com/RAIDxVIPER) |
+| Aman Vatsa | [GitHub](https://github.com/amanv13) |
+| Dhriti A | [GitHub](https://github.com/) |
 ---
 
-<div align="center">
-  <strong>Smart Flow: Intelligence at every intersection.</strong>
-</div>
