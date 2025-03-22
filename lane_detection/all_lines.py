@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load image
-img = cv2.imread('Images/13/7.jpg')
+img = cv2.imread('Images/03/9.jpg')
 img = cv2.resize(img, (800, 600))
 
 # Convert to grayscale

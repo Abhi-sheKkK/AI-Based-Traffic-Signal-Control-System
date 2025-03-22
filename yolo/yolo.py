@@ -40,7 +40,7 @@ def crop_image(image, top, left, right):
   return cropped_image
 
 
-video_path = 'Videos\\01.mp4'
+video_path = 'videos/road.mp4'
 cap = cv.VideoCapture(video_path)
 
 if not cap.isOpened():
@@ -60,6 +60,8 @@ while cap.isOpened():
     ret, frame = cap.read()
     if not ret:
         break
+    frame = cv.rotate(frame, cv.ROTATE_90_CLOCKWISE)  
+
 
     if frame_count % frame_interval == 0:
       # Yolo
