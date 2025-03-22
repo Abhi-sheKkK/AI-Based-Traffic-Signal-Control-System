@@ -145,8 +145,6 @@ Unlike traditional systems, Smart Flow:
 | Om Mukherjee | [GitHub](https://github.com/meekhumor) |
 | Abhishek Kotwani | [GitHub](https://github.com/Abhi-sheKkK) |
 | Aryan Yadav | [GitHub](https://github.com/Aryan-y-77) |
-| Ronit Choube | [GitHub](https://github.com/RAIDxVIPER) |
-| Aman Vatsa | [GitHub](https://github.com/amanv13) |
-| Dhriti A | [GitHub](https://github.com/) |
+| Kesar Parmar | [GitHub](https://github.com/) |
 ---
 
