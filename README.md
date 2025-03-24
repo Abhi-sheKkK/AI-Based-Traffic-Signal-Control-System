@@ -42,9 +42,15 @@ https://github.com/user-attachments/assets/84eb35d4-ce2e-4db9-9734-502bc9cbacee
 
 <img src="https://github.com/user-attachments/assets/a452e21f-c295-42d1-bf9e-40dc430030e7" width="600" />
 
-<br /><br />
+<br />
 
+**Reinforcement Learning**
 
+https://github.com/user-attachments/assets/31f420f9-1436-4bb1-89a7-122062457470
+
+https://github.com/user-attachments/assets/010af874-1cde-407b-9c63-24538ef7eb6b
+
+<br />
 
 Unlike traditional systems, Smart Flow:
 * **Sees** traffic conditions in real-time through computer vision
