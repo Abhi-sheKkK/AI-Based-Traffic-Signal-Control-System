@@ -93,25 +93,16 @@ Unlike traditional systems, Smart Flow:
 
 <table>
   <tr>
-    <td><img src="/api/placeholder/250/150" alt="wait-time-reduction" width="250"></td>
-    <td><img src="/api/placeholder/250/150" alt="throughput-increase" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/66402c78-e044-4088-970a-7b948c3db006" alt="wait-time-reduction" width="650"></td>
   </tr>
   <tr>
     <td align="center">Wait Time Reduction</td>
-    <td align="center">Intersection Throughput</td>
   </tr>
 </table>
 
 ### Performance Metrics
 
-<p align="center">
-  <img src="/api/placeholder/400/250" alt="performance-metrics" width="400" />
-</p>
-
-* **32% reduction** in average wait times during peak hours
-* **27% improvement** in traffic throughput at test intersections
-* **41% decrease** in stop-and-go patterns reducing fuel consumption
-* **99.2% uptime** achieved in pilot deployments
+<img src="https://github.com/user-attachments/assets/27e8d6d7-cc4c-475d-98c6-83dbd1dbe39c" alt="performance-metrics" width="600" />
 
 ## 🌍 Real-world Impact
 
