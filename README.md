@@ -106,10 +106,6 @@ Unlike traditional systems, Smart Flow:
   </tr>
 </table>
 
-### Performance Metrics
-
-<img src="https://github.com/user-attachments/assets/27e8d6d7-cc4c-475d-98c6-83dbd1dbe39c" alt="performance-metrics" width="600" />
-
 ## 🌍 Real-world Impact
 
 ### Environmental Benefits
