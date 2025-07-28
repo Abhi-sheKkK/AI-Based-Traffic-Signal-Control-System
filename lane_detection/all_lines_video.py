@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load video
-video_path = 'road.mp4'  # Replace with your video path
+video_path = 'videos/road.mp4'  # Replace with your video path
 cap = cv2.VideoCapture(video_path)
 
 while cap.isOpened():

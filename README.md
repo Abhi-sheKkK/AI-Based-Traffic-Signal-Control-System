@@ -42,9 +42,15 @@ https://github.com/user-attachments/assets/84eb35d4-ce2e-4db9-9734-502bc9cbacee
 
 <img src="https://github.com/user-attachments/assets/a452e21f-c295-42d1-bf9e-40dc430030e7" width="600" />
 
-<br /><br />
+<br />
 
+**Reinforcement Learning**
 
+https://github.com/user-attachments/assets/444ece30-dcd7-4607-8d53-4da42c7d65ba
+
+https://github.com/user-attachments/assets/e88b2391-1fb8-4e7a-8a19-c6cf92b9dc3e
+
+<br />
 
 Unlike traditional systems, Smart Flow:
 * **Sees** traffic conditions in real-time through computer vision
@@ -93,25 +99,12 @@ Unlike traditional systems, Smart Flow:
 
 <table>
   <tr>
-    <td><img src="/api/placeholder/250/150" alt="wait-time-reduction" width="250"></td>
-    <td><img src="/api/placeholder/250/150" alt="throughput-increase" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/66402c78-e044-4088-970a-7b948c3db006" alt="wait-time-reduction" width="650"></td>
   </tr>
   <tr>
     <td align="center">Wait Time Reduction</td>
-    <td align="center">Intersection Throughput</td>
   </tr>
 </table>
-
-### Performance Metrics
-
-<p align="center">
-  <img src="/api/placeholder/400/250" alt="performance-metrics" width="400" />
-</p>
-
-* **32% reduction** in average wait times during peak hours
-* **27% improvement** in traffic throughput at test intersections
-* **41% decrease** in stop-and-go patterns reducing fuel consumption
-* **99.2% uptime** achieved in pilot deployments
 
 ## 🌍 Real-world Impact
 

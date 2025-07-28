@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('Images/01/7.jpg')
+img = cv2.imread('Images/02/7.jpg')
 img = cv2.resize(img, (800, 600))
 
 height, width = img.shape[:2]
