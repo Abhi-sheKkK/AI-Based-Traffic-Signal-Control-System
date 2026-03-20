@@ -53,7 +53,7 @@ frame_interval = int(fps * 0.1)
 vehicle_counts = []
 timestamps = []
 
-model = YOLO('yolov8n.pt') 
+model = YOLO('models/yolov8n.pt') 
 
 frame_count = 0
 while cap.isOpened():

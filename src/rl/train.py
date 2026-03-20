@@ -116,7 +116,7 @@ class TrafficLightEnv(Env):
 
 if __name__ == "__main__":
     # Initialize and train
-    config_file = "intersection.sumocfg"
+    config_file = "configs/intersection.sumocfg"
     env = TrafficLightEnv(config_file)
     try:
         print("Running environment check...")

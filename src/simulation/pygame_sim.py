@@ -72,7 +72,7 @@ class Vehicle(pygame.sprite.Sprite):
         self.rotateAngle = 0
         vehicles[direction][lane].append(self)
         self.index = len(vehicles[direction][lane]) - 1
-        path = "images/" + direction + "/" + vehicleClass + ".png"
+        path = "assets/images/" + direction + "/" + vehicleClass + ".png"
         self.originalImage = pygame.image.load(path)
         self.currentImage = pygame.image.load(path)
         
@@ -130,7 +130,7 @@ class Vehicle(pygame.sprite.Sprite):
                         self.y += 1.8
                         if(self.rotateAngle==90):
                             self.turned = 1
-                            # path = "images/" + directionNumbers[((self.direction_number+1)%noOfSignals)] + "/" + self.vehicleClass + ".png"
+                            # path = "assets/images/" + directionNumbers[((self.direction_number+1)%noOfSignals)] + "/" + self.vehicleClass + ".png"
                             # self.x = mid[self.direction]['x']
                             # self.y = mid[self.direction]['y']
                             # self.image = pygame.image.load(path)
@@ -183,7 +183,7 @@ class Vehicle(pygame.sprite.Sprite):
                         self.y -= 2.5
                         if(self.rotateAngle==90):
                             self.turned = 1
-                            # path = "images/" + directionNumbers[((self.direction_number+1)%noOfSignals)] + "/" + self.vehicleClass + ".png"
+                            # path = "assets/images/" + directionNumbers[((self.direction_number+1)%noOfSignals)] + "/" + self.vehicleClass + ".png"
                             # self.x = mid[self.direction]['x']
                             # self.y = mid[self.direction]['y']
                             # self.currentImage = pygame.image.load(path)
@@ -335,10 +335,10 @@ class Main:
     screen = pygame.display.set_mode((screenWidth, screenHeight))
     pygame.display.set_caption("SIMULATION")
 
-    background = pygame.image.load('images/mod_int.png')
-    redSignal = pygame.image.load('images/signals/red.png')
-    yellowSignal = pygame.image.load('images/signals/yellow.png')
-    greenSignal = pygame.image.load('images/signals/green.png')
+    background = pygame.image.load('assets/images/mod_int.png')
+    redSignal = pygame.image.load('assets/images/signals/red.png')
+    yellowSignal = pygame.image.load('assets/images/signals/yellow.png')
+    greenSignal = pygame.image.load('assets/images/signals/green.png')
     font = pygame.font.Font(None, 30)
 
     thread3 = threading.Thread(target=generateVehicles)

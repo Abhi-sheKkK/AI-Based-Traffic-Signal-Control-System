@@ -98,7 +98,7 @@ class TrafficLightEnv(Env):
                 pass
 
 # Test the trained model with SUMO-GUI
-config_file = "intersection.sumocfg"
+config_file = "configs/intersection.sumocfg"
 env = TrafficLightEnv(config_file)
 model = DQN.load("models/kingcircle")
 

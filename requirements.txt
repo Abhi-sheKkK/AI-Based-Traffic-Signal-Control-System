@@ -1,0 +1,6 @@
+opencv-python
+numpy
+matplotlib
+pygame
+gymnasium
+stable-baselines3

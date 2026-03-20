@@ -1,8 +1,8 @@
 import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
-from lane_detection.final_lane_detection import detect_lane
-from final_background_substractor import background_contour
+from src.vision.lane_detection.final_lane_detection import detect_lane
+from src.vision.bg_subtractor import background_contour
 
 def contours_detector(img):
     gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
@@ -33,7 +33,7 @@ def crop_image(image, top, left, right):
 
     return cropped_image
 
-video_path = 'videos/road.mp4'
+video_path = 'data/videos/road.mp4'
 top, left, right = detect_lane(video_path)
 back_countour = background_contour(video_path, top, left, right)
 
